@@ -1,0 +1,216 @@
+.board-divider {
+    width: 0;
+    border-right: 1px solid #e3e6f0;
+    height: calc(3rem - 2rem);
+    margin: auto 1rem;
+}
+/* freeBoard.html */
+a[data-active="true"] {
+    /*color: #16ae81;*/
+    color: #90EE90;
+}
+a[data-active="false"] {
+    color: #fff;
+}
+.btn-light-form {
+    color: #000;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa
+}
+
+.btn-light-form:hover {
+    color: #000;
+    background-color: #ced4da;
+    border-color: #ced4da;
+}
+.btn-light-form{
+    border: 1px solid #f8f9fa;
+    border-radius: 0.25rem;
+    --bs-btn-color: #000;
+    --bs-btn-bg: #f8f9fa;
+    --bs-btn-border-color: #f8f9fa;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #d3d4d5;
+    --bs-btn-hover-border-color: #c6c7c8;
+    --bs-btn-focus-shadow-rgb: 211, 212, 213;
+    --bs-btn-active-color: #000;
+    --bs-btn-active-bg: #c6c7c8;
+    --bs-btn-active-border-color: #babbbc;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #000;
+    --bs-btn-disabled-bg: #f8f9fa;
+    --bs-btn-disabled-border-color: #f8f9fa;
+}
+.btn-outline-form {
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    --bs-btn-color: #ced4da;
+    --bs-btn-border-color: #ced4da;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #ced4da;
+    --bs-btn-hover-border-color: #ced4da;
+    --bs-btn-focus-shadow-rgb: 108, 117, 125;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #ced4da;
+    --bs-btn-active-border-color: #ced4da;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #ced4da;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #ced4da;
+    --bs-gradient: none;
+}
+.text-xss {
+    font-size: 0.8rem;
+}
+.select-option {
+    padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+}
+.page-header.page-header-dark {
+    color: rgba(255, 255, 255, 0.5);
+}
+.pb-10 {
+    padding-bottom: 6rem !important;
+}
+#content-bg{
+    margin-top : -1rem;
+}
+#board{
+    margin-top : -7rem;
+}
+.btn-beige {
+    color: #fff;
+    background-color: #cdb896;
+    border-color:#cdb896;
+}
+.btn-beige:hover {
+    color: #fff;
+    background-color: #9f8f74;
+    border-color: #9f8f74;
+}
+.container-board {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: var(--bs-gutter-x, .75rem);
+    padding-left: var(--bs-gutter-x, .75rem);
+    margin-right: auto;
+    /*margin-left: 0.4rem;*/
+    margin-left: auto;
+}
+.text-potato {
+    color: #5A4608;
+}
+.no-list-group-item {
+    padding: 3.5rem 1rem !important;
+}
+/* freeBoard.html end */
+
+#viewer img {
+    margin: 4px 0px 10px;
+    max-width: 100%;
+}
+
+/* 월드컵 페이지 */
+
+.custom-card {
+    background-size: cover;
+    background-position: center;
+}
+.custom-card:hover {
+    transform: scale(1.05); /* 마우스를 올렸을 때 카드 확대 */
+    transition: transform 0.3s ease; /* 부드러운 애니메이션 효과 추가 */
+    cursor:pointer;
+}
+.custom-card:hover .overlay {
+    opacity: 1; /* 마우스를 올렸을 때 오버레이를 보이도록 설정 */
+}
+.link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.image-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+    overflow: hidden; /* 이미지 오버플로우 숨기기 */
+}
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+.image-container img:hover {
+    transform: scale(1.1);
+}
+.vs-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.vs-container img{
+    width:100%;
+}
+.description-overlay {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    text-align: center;
+}
+@keyframes glitter {
+    0% {
+        color: gold; /* 반짝이는 색상 1 */
+    }
+    25% {
+        color: red; /* 반짝이는 색상 2 */
+    }
+    50%{
+        color: #00FF00
+    }
+    75%{
+        color: #FF00FF
+    }
+    100% {
+        color: #00FFFF; /* 다시 처음 색상으로 돌아감 */
+    }
+}
+
+.finalNameDiv {
+    animation: glitter 1.5s infinite; /* glitter 애니메이션 적용 */
+}
+
+#finalImage {
+    transform: scale(0.8); /* 기본 크기 설정 */
+    transition: transform 2s ease; /* 변환에 대한 부드러운 애니메이션 적용 */
+}
+
+#finalImage.enlarged {
+    transform: scale(1); /* 1.2배로 확대됨 */
+}
+
+/* 월드컵 순위표 */
+table {
+    width: 100%; /* 표의 전체 너비를 100%로 설정합니다. */
+    border-collapse: collapse; /* 표의 경계를 병합합니다. */
+}
+
+th, td {
+    border: 1px solid #ddd; /* 테두리를 추가합니다. */
+    padding: 8px; /* 셀 안의 여백을 설정합니다. */
+    text-align: left; /* 셀 안의 텍스트를 왼쪽으로 정렬합니다. */
+}
+
+th {
+    background-color: #f2f2f2; /* 표 헤더의 배경색을 지정합니다. */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* 짝수 행의 배경색을 지정합니다. */
+}
+
+#keyword {
+    width: 8rem;
+}
