@@ -38,7 +38,7 @@ function askGpt() {
 
 
 function getGptAnswer(query, callback) {
-	//var apiKey = '';
+	//var apiKey = 'secret';
 	var apiEndpoint = 'https://api.openai.com/v1/chat/completions';
 	var requestOptions = {
 		method: 'POST',
