@@ -33,12 +33,16 @@
 ----
 
 ## 5. 프로젝트 기능 소개
-
-<img width="728" alt="image" src="https://github.com/user-attachments/assets/b49c7e89-ecf8-48b6-8687-6092da599a51">
+<img width="738" alt="image" src="https://github.com/user-attachments/assets/dcf5d149-0b5c-49f0-a05a-deec7739ffdb">
+<img width="762" alt="image" src="https://github.com/user-attachments/assets/c2777f1e-dd03-44e0-a7e2-0f4fc417a89a">
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/a06177a7-0dd0-4bca-8e46-04118b294560">
 <img width="594" alt="image" src="https://github.com/user-attachments/assets/66abbd95-236d-4987-9560-24f1eacc2623">
 <img width="555" alt="image" src="https://github.com/user-attachments/assets/84071e33-4641-4b7f-b2ae-30f71fd60658">
 <img width="565" alt="image" src="https://github.com/user-attachments/assets/b0770507-ff97-45f0-97f4-b744e6566e12">
 <img width="595" alt="image" src="https://github.com/user-attachments/assets/ebffe98a-e704-49c1-a749-6da926765a27">
+<img width="597" alt="image" src="https://github.com/user-attachments/assets/d9c791d8-95ce-489b-83ef-738631162a48">
+<img width="603" alt="image" src="https://github.com/user-attachments/assets/702a79d6-06c4-4e7b-a2f0-c23dadcc4f66">
+<img width="567" alt="image" src="https://github.com/user-attachments/assets/7c418382-1144-4eea-a2ed-0b54d016b09f">
 
 
 ----
@@ -53,6 +57,8 @@
 
 
 ## 7. 향후 서비스
-스키마 Refactor, 다양한 게시판 추가(지역, 크루 모집), UI 개선
+스키마 Refactor, 다양한 게시판 추가(지역, 크루 모집), UI 개선 <br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/aed71e82-3135-4e75-b3ca-6698769faead">
+
 
 
