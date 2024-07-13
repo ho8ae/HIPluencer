@@ -22,10 +22,16 @@
 ----
 ## 3. 프로젝트 Workflows
 <img width="612" alt="image" src="https://github.com/user-attachments/assets/4ef36f8c-6de0-459a-8375-82a6b6bc643b">
+
+
 ----
+
+
 ## 4. 프로젝트 기획
 <img width="604" alt="image" src="https://github.com/user-attachments/assets/3f9a22a4-56d0-4473-9b29-7668caaf1663">
+
 ----
+
 ## 5. 프로젝트 기능 소개
 
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/b49c7e89-ecf8-48b6-8687-6092da599a51">
@@ -36,9 +42,15 @@
 
 
 ----
+
+
 ## 6. 프로젝트 전체 아키텍쳐
 <img width="607" alt="image" src="https://github.com/user-attachments/assets/8f986299-63be-444e-afd9-8fedcf69dddd">
+
+
 ----
+
+
 
 ## 7. 향후 서비스
 스키마 Refactor, 다양한 게시판 추가(지역, 크루 모집), UI 개선
