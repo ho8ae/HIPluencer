@@ -43,8 +43,7 @@ https://github.com/user-attachments/assets/32432e04-36a9-46a5-bcf6-4c3bfe126ca7
 
 | 기능 | 설명 | 스크린샷 |
 |------|------|-----------|
-| 소개 페이지 | - 웹에 전반적인 기능들을 소개하는 곳| ![소개](https://github.com/user-attachments/assets/c7dcb490-dcbf-42c6-baf9-4dd6b9913be8) />
-) |
+| 소개 페이지 | - 웹에 전반적인 기능들을 소개하는 곳| ![소개](https://github.com/user-attachments/assets/c7dcb490-dcbf-42c6-baf9-4dd6b9913be8)|
 | 메인 페이지 | - 행사장 위치 표시<br>- 네비게이션 버튼 구현 <br>- 카테고리(ChatGPT, 게시판 바로가기, ifram 유튜브 시청)별 기능 구현 | ![메인](https://github.com/user-attachments/assets/a06177a7-0dd0-4bca-8e46-04118b294560) |
 | 메일 QnA 및 신고 기능 | - 악성 유저 신고<br>- 메일로 관리 | ![게시판](https://github.com/user-attachments/assets/b0770507-ff97-45f0-97f4-b744e6566e12) |
 | 이메일 인증 회원가입| - SHA-256 이메일 인증 절차 방식| ![마이페이지](https://github.com/user-attachments/assets/ebffe98a-e704-49c1-a749-6da926765a27) |
